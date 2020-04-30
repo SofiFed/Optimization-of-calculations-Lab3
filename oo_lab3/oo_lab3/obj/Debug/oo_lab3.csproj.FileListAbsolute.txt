@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\oo_lab3\oo_lab3\bin\Debug\oo_lab3.exe.config
+C:\Users\User\Desktop\oo_lab3\oo_lab3\bin\Debug\oo_lab3.exe
+C:\Users\User\Desktop\oo_lab3\oo_lab3\bin\Debug\oo_lab3.pdb
+C:\Users\User\Desktop\oo_lab3\oo_lab3\obj\Debug\oo_lab3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\oo_lab3\oo_lab3\obj\Debug\oo_lab3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\oo_lab3\oo_lab3\obj\Debug\oo_lab3.exe
+C:\Users\User\Desktop\oo_lab3\oo_lab3\obj\Debug\oo_lab3.pdb
